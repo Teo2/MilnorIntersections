@@ -13,3 +13,9 @@ The first non-zero mu-bar-invariant can be obtained iteratively intersecting Sei
               auto-rotate camera-controls
               style="width: 600px; height: 400px; background-color: #f0f0f0;">
 </model-viewer>
+
+This model was created entirely using a virtual reality headset and the program Gravity Sketch.
+
+## 📄 Full Paper
+
+<embed src="paper.pdf" type="application/pdf" width="100%" height="800px" />
